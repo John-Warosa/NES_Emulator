@@ -1,0 +1,3 @@
+/Users/eliasmathiaschitz/Desktop/C/Projekte/NES_Emulator/build/CMakeFiles/NES.dir
+/Users/eliasmathiaschitz/Desktop/C/Projekte/NES_Emulator/build/CMakeFiles/edit_cache.dir
+/Users/eliasmathiaschitz/Desktop/C/Projekte/NES_Emulator/build/CMakeFiles/rebuild_cache.dir
